@@ -2,10 +2,10 @@
 
 A simple movie search application that allows you to search for movies and view detailed information about them.
 <p align="center">
-  <img src="https://i.ibb.co/kQFz0mD/image.png" />
+  <img src="https://i.ibb.co/Wg17FVz/image.png" />
 </p>
 <p align="center">
-  <img src="https://i.ibb.co/H2T9zNf/image.png" />
+  <img src="https://i.ibb.co/rt2X6bR/image.png" />
 </p>
 ## Getting Started
 
