@@ -20,7 +20,7 @@ function App() {
 
     const movie = e.target.elements.movie.value;
     const wait = await fetch(
-      `http://www.omdbapi.com/?t=${movie}&apikey=ba8c1e41`
+      `https://www.omdbapi.com/?t=${movie}&apikey=ba8c1e41`
     );
     const data = await wait.json();
     if (data.Response == "True") {
