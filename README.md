@@ -36,7 +36,7 @@ yarn install
 
 4. Start the development server
 ```
-yarn run dev
+yarn dev
 ```
 
 5. Open your browser and go to `http://127.0.0.1:5173/` to see the app in action.
