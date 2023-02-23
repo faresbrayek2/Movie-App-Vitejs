@@ -7,7 +7,7 @@ A simple movie search application that allows you to search for movies and view 
 <p align="center">
   <img src="https://i.ibb.co/rt2X6bR/image.png" />
 </p>
-<br/>
+<br>
 ## Getting Started
 
 These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
